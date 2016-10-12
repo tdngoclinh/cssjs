@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/TL2YyC' target='_blank'><img src='https://lh3.googleusercontent.com/lB6Rgf77L8UwDtKJWfvFypX9l1thmVzj1FaC7cM4zvVnqjCFtl0G_-c_x7ed1V6qcObV87cLFA=w1366-h768-rw-no' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/TL2YyC' target='_blank'><img src='https://lh3.googleusercontent.com/lB6Rgf77L8UwDtKJWfvFypX9l1thmVzj1FaC7cM4zvVnqjCFtl0G_-c_x7ed1V6qcObV87cLFA=w1366-h768-rw-no' width='500px'/><br/>LIÊN  HỆ NGAY ĐỂ THAM QUAN DỰ ÁN </a>. 0909 264 349 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
